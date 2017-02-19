@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Go Scanner</string>
+    <string name="no_permission">You can\'t use this app without granting permission</string>
+</resources>
